@@ -91,6 +91,8 @@
 		68F1A8691B93F66A005CC017 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0720;
+				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = KT;
 				TargetAttributes = {
@@ -240,6 +242,7 @@
 				68F1A87A1B93F66A005CC017 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

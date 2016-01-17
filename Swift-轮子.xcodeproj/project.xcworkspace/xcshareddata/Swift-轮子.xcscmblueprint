@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2CC91155AAB0839DB617CFC8D521FA4C1EB13CBA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2CC91155AAB0839DB617CFC8D521FA4C1EB13CBA" : 0,
+    "C71A612E55CCF042C9D0404A97F793518FAC0059" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FA5CABFD-1E65-44F7-9D85-B702BFB6C050",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2CC91155AAB0839DB617CFC8D521FA4C1EB13CBA" : "SwiftExtension\/",
+    "C71A612E55CCF042C9D0404A97F793518FAC0059" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Swift-轮子",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Swift-轮子.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/649395594\/SwiftExtension.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2CC91155AAB0839DB617CFC8D521FA4C1EB13CBA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/649395594\/panDoctor-iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C71A612E55CCF042C9D0404A97F793518FAC0059"
+    }
+  ]
+}
